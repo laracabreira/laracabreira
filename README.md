@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Meu nome é a Ana Lara, tenho 25 anos!
+<br> 
+Estou estando para me tornar uma programadora front-end criando com HTML, CSS e logo mais inicio JavaScript. 
+
 <!--
 **laracabreira/laracabreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
